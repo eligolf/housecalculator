@@ -1,4 +1,4 @@
-# Bostadskalkylator
+# House calculator
 
 Calculates the monthly rate from buying a house or a residential property given your specific inputs. The program is in Swedish.
 
